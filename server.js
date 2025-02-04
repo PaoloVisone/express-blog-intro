@@ -48,6 +48,7 @@ app.get('/bacheca', (req, res) => {
 
     // res oggetto in formato json
     res.type('json').send(menu);
+
 })
 
 app.listen(port, () => {
