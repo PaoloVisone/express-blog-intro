@@ -1,0 +1,27 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "Blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaoloVisone/express-blog-intro.git"
+  },
+  "keywords": [
+    "Blog",
+    "Esercizio",
+    "Server",
+    "Rotta"
+  ],
+  "author": "Paolo Visone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaoloVisone/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/PaoloVisone/express-blog-intro#readme"
+}
